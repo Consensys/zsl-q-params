@@ -1,0 +1,6 @@
+https://github.com/jpmorganchase/zsl-q-params/releases/download/v0.2/shielding.pk
+https://github.com/jpmorganchase/zsl-q-params/releases/download/v0.2/shielding.vk
+https://github.com/jpmorganchase/zsl-q-params/releases/download/v0.2/transfer.pk
+https://github.com/jpmorganchase/zsl-q-params/releases/download/v0.2/transfer.vk
+https://github.com/jpmorganchase/zsl-q-params/releases/download/v0.2/unshielding.pk
+https://github.com/jpmorganchase/zsl-q-params/releases/download/v0.2/unshielding.vk
